@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Jay Mark\\source\\repos\\Basilad_VB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|VBLoginProject\\Basilad_VB.vbproj|c:\\users\\jay mark\\source\\repos\\basilad_vb\\vbloginproject\\.vs\\basilad_vb.vbproj.dtbcache.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|VBLoginProject\\Basilad_VB.vbproj|solutionrelative:vbloginproject\\.vs\\basilad_vb.vbproj.dtbcache.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|VBLoginProject\\Basilad_VB.vbproj|c:\\users\\jay mark\\source\\repos\\basilad_vb\\vbloginproject\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|VBLoginProject\\Basilad_VB.vbproj|solutionrelative:vbloginproject\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "basilad_VB.vbproj.dtbcache.json",
+              "DocumentMoniker": "C:\\Users\\Jay Mark\\source\\repos\\Basilad_VB\\VBLoginProject\\.vs\\basilad_VB.vbproj.dtbcache.json",
+              "RelativeDocumentMoniker": "VBLoginProject\\.vs\\basilad_VB.vbproj.dtbcache.json",
+              "ToolTip": "C:\\Users\\Jay Mark\\source\\repos\\Basilad_VB\\VBLoginProject\\.vs\\basilad_VB.vbproj.dtbcache.json",
+              "RelativeToolTip": "VBLoginProject\\.vs\\basilad_VB.vbproj.dtbcache.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T14:53:22.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Home.aspx.vb",
               "DocumentMoniker": "C:\\Users\\Jay Mark\\source\\repos\\Basilad_VB\\VBLoginProject\\Home.aspx.vb",
               "RelativeDocumentMoniker": "VBLoginProject\\Home.aspx.vb",
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Home.aspx",
               "DocumentMoniker": "C:\\Users\\Jay Mark\\source\\repos\\Basilad_VB\\VBLoginProject\\Home.aspx",
               "RelativeDocumentMoniker": "VBLoginProject\\Home.aspx",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\Jay Mark\\source\\repos\\Basilad_VB\\VBLoginProject\\Login.aspx",
               "RelativeDocumentMoniker": "VBLoginProject\\Login.aspx",
@@ -78,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Register.aspx",
               "DocumentMoniker": "C:\\Users\\Jay Mark\\source\\repos\\Basilad_VB\\VBLoginProject\\Register.aspx",
               "RelativeDocumentMoniker": "VBLoginProject\\Register.aspx",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Register.aspx.vb",
               "DocumentMoniker": "C:\\Users\\Jay Mark\\source\\repos\\Basilad_VB\\VBLoginProject\\Register.aspx.vb",
               "RelativeDocumentMoniker": "VBLoginProject\\Register.aspx.vb",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Login.aspx.vb",
               "DocumentMoniker": "C:\\Users\\Jay Mark\\source\\repos\\Basilad_VB\\VBLoginProject\\Login.aspx.vb",
               "RelativeDocumentMoniker": "VBLoginProject\\Login.aspx.vb",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\Jay Mark\\source\\repos\\Basilad_VB\\VBLoginProject\\Web.config",
               "RelativeDocumentMoniker": "VBLoginProject\\Web.config",
